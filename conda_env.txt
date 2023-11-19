@@ -1,0 +1,6 @@
+# conda 23.3.1
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-aarch64
+python=3.12.0=h43d1f9e_0_cpython
+python-telegram-bot=20.6=pyhd8ed1ab_0
