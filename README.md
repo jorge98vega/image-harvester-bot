@@ -33,3 +33,7 @@ You can create a conda environment using `conda create --name <env> --file conda
 3. **Run the Bot:**
     - Execute the `main.py` script to start the bot.
     - The bot is now ready to receive and store images.
+
+## License:
+
+This project is licensed under the [MIT License](LICENSE)
